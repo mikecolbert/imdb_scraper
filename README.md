@@ -6,8 +6,18 @@ Jupyter Notebook to scrape imdb.com
    
 2. x
 
+## To do list
+[] Edit _id to be unique in the dataset, not just the CSV
+[] Make a second pass using the imdb_url variable to pull box office and release details
+[] Merge the original dataset with the second pass dataset
+[] Edit the image_url to point to the large image
+[] Pull the large image to local hard drive (wget) and rename
+[] Include new image name in the CSV
+[] Merge all CSVs into single dataset
 
-Data dictionary
+
+
+## Data dictionary
 
 | Header | Description |
 | --- | ----------- |
