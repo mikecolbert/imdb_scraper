@@ -1,0 +1,7 @@
+_id,imdb_url,aggregate_rating_score,popularity_score,release_date_us,estimated_budget,opening_weekend_domestic_date,opening_weekend_domestic_gross,worldwide_gross,image_url_big
+1,https://www.imdb.com/title/tt3864056/,6.4,"3,247",13-Sep-19,45000000,15-Sep-19,2679027,9932621,https://m.media-amazon.com/images/M/MV5BY2ZmNmUzNTctYTA3Mi00ZTg3LWFmMWMtYzU2ZjA3NDRmODIzXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_FMjpg_UX900_.jpg
+2,https://www.imdb.com/title/tt3513498/,6.6,"3,111",8-Feb-19,99000000,10-Feb-19,34115335,199603202,https://m.media-amazon.com/images/M/MV5BMTkyOTkwNDc1N15BMl5BanBnXkFtZTgwNzkyMzk3NjM@._V1_FMjpg_UX900_.jpg
+3,https://www.imdb.com/title/tt8946378/,7.9,267,27-Nov-19,40000000,1-Dec-19,26769548,312897920,https://m.media-amazon.com/images/M/MV5BMGUwZjliMTAtNzAxZi00MWNiLWE2NzgtZGUxMGQxZjhhNDRiXkEyXkFqcGdeQXVyNjU1NzU3MzE@._V1_FMjpg_UX900_.jpg
+4,https://www.imdb.com/title/tt6048922/,7,811,10-Jul-20,50300000,,,,https://m.media-amazon.com/images/M/MV5BZTFkZjYxNWItZmE2MC00MGE4LWIxYTgtZmIzOWM1YmI2YWEzXkEyXkFqcGdeQXVyMDM2NDM2MQ@@._V1_FMjpg_UX900_.jpg
+5,https://www.imdb.com/title/tt7713068/,6.1,971,7-Feb-20,84500000,9-Feb-20,33010017,205372791,https://m.media-amazon.com/images/M/MV5BMzQ3NTQxMjItODBjYi00YzUzLWE1NzQtZTBlY2Y2NjZlNzkyXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_FMjpg_UX900_.jpg
+6,https://www.imdb.com/title/tt4566758/,5.8,"1,104",4-Sep-20,200000000,,,69965374,https://m.media-amazon.com/images/M/MV5BYjdlZjRiYTUtN2NlNC00MDkxLWI0MmItOTUwNTg1YTU4MWUxXkEyXkFqcGdeQXVyMTA1OTEwNjE@._V1_FMjpg_UX900_.jpg
