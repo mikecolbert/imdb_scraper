@@ -37,3 +37,9 @@ Jupyter Notebook to scrape imdb.com
 | imdb_url | URL for movie details |
 | image_url | URL for movie art |
 
+
+## Notes  
+
+https://m.media-amazon.com/images/M/MV5BNzg3OTEzMTgtYWU0OC00YTI0LWIxOTAtNmRkNTc0Nzg2YWU1XkEyXkFqcGdeQXVyNjY1MTg4Mzc@._V1_FMjpg_UX900_.jpg  <<<—— change everthing after the @ sign to this  
+  
+``` @._V1_FMjpg_UX900_.jpg ```
